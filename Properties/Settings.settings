@@ -1,0 +1,60 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Amherst.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="attackDelay" Type="System.String" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="buffDelay1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">180</Value>
+    </Setting>
+    <Setting Name="buffAnimation1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1200</Value>
+    </Setting>
+    <Setting Name="BuffNumPress1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="buffDelay2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">180</Value>
+    </Setting>
+    <Setting Name="buffAnimation2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1200</Value>
+    </Setting>
+    <Setting Name="BuffNumPress2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="buffDelay3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">180</Value>
+    </Setting>
+    <Setting Name="buffAnimation3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1200</Value>
+    </Setting>
+    <Setting Name="BuffNumPress3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="buffDelay4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">180</Value>
+    </Setting>
+    <Setting Name="buffAnimation4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1200</Value>
+    </Setting>
+    <Setting Name="BuffNumPress4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="attackKey" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="buffKey1" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="buffKey2" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="buffKey3" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="buffKey4" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
